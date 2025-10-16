@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shop Watches & Shoes</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script defer src="assets/js/main.js"></script>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container nav-container">
+            <a href="index.html" class="logo">shoppingIndia110</a>
+            <button class="nav-toggle" aria-label="Toggle navigation">
+                <span class="nav-toggle-icon"></span>
+            </button>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="products.html">Shop</a></li>
+                <li class="nav-category">
+                    <a href="#" class="category-link">Categories</a>
+                    <ul class="category-dropdown">
+                        <li><a href="products.html?category=watch">Watches</a></li>
+                        <li><a href="products.html?category=shoes">Shoes</a></li>
+                    </ul>
+                </li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="cart.html" class="cart-link">Cart <span id="cart-count">0</span></a></li>
+            </ul>
+        </div>
+    </nav>
+    <main class="container">
+        <h1>Shop All Products</h1>
+        <div class="category-filter">
+            <button class="btn btn-gold" data-category="all">All</button>
+            <button class="btn btn-gold" data-category="watches">Watches</button>
+            <button class="btn btn-gold" data-category="shoes">Shoes</button>
+        </div>
+        <div class="products-grid" id="products-list">
+            <!-- JS will inject products here -->
+        </div>
+    </main>
+    <!-- Footer -->
+    <footer class="footer black-footer">
+    <div class="footer-main">
+        <div class="footer-col logo-col">
+            <a href="index.html" class="footer-logo-link">
+                <div class="footer-logo">shoppingIndia110</div>
+            </a>
+            <div class="footer-slogan">Premium Watches & Shoes</div>
+        </div>
+        <div class="footer-col">
+            <div class="footer-heading">Shop</div>
+            <a href="products.html">All Products</a>
+            <a href="products.html?category=watch">Watches</a>
+            <a href="products.html?category=shoes">Shoes</a>
+        </div>
+        <div class="footer-col">
+            <div class="footer-heading">Company</div>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+        </div>
+        <div class="footer-col">
+            <div class="footer-heading">Policies</div>
+            <a href="privacy-policy.html">Privacy Policy</a>
+            <a href="shipping-policy.html">Shipping Policy</a>
+            <a href="terms-and-conditions.html">Terms & Conditions</a>
+            <a href="refund-return.html">Refund & Return</a>
+        </div>
+    </div>
+    <hr class="footer-divider">
+    <div class="footer-bottom">
+        <div class="footer-socials">
+            <a href="https://www.instagram.com/qamar2381/" target="_blank" aria-label="Instagram"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" /></a>
+            <a href="mailto:your@email.com" aria-label="Email"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" alt="Email" /></a>
+        </div>
+        <div class="footer-copyright">&copy; 2025 shoppingIndia110. All rights reserved.</div>
+    </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Armani Exchange Watch",
+    "category" : "watches",
+    "price": 1499,
+    "imageURL": "assets/whatsapp-downloads/armani.jpg",
+    "description": "Premium AX Modern Chronograph for men 🔥 Stainless steel body, adjustable silicone strap, rust-free & packed in Armani box. 100% quality quartz movement. Price ₹1499/- ✅"
+  },
+  {
+    "id": 2,
+    "name": "Omega Mens Watch",
+    "category" : "watches",
+    "price": 2899,
+    "imageURL": "assets/whatsapp-downloads/Omega.jpg",
+    "description": "Men’s automatic watch with premium Japan machine 🇯🇵. Elegant design, smooth performance & free shipping. Price ₹2899/- 💎"
+  },
+  {
+    "id": 3,
+    "name": "onitsuka tiger panda prank shoes",
+    "category" : "shoes",
+    "price": 2399,
+    "imageURL": "assets/whatsapp-downloads/onitsuka.jpg",
+    "description": "Onitsuka Tiger Panda edition 🐼 7A premium quality shoes. Sizes 41–45 available. Price ₹2399/- (shipping extra). COD available ✌"
+  },
+  {
+    "id": 4,
+    "name": "N Rocking Shoes",
+    "category" : "shoes",
+    "price": 2299,
+    "imageURL": "assets/whatsapp-downloads/N.jpg",
+    "description": "New Balance Elite 7A premium sneakers 👟 Limited Diwali offer ₹2,299/- (MRP ₹2,799/-). Sizes 41–45 available. COD available 📦"
+  },
+  {
+    "id": 5,
+    "name": " FOSSIL Watch",
+    "category" : "watches",
+    "price": 1449,
+    "imageURL": "assets/whatsapp-downloads/fosil.jpg",
+    "description": "Fossil men’s 7A quality steel analog watch ⌚ All working, quartz machinery, metal belt & high quality build. Price ₹1449/- 💝 Free shipping for prepaid orders!"
+  },
+  {
+    "id": 6,
+    "name": "On cloud Qc shoes",
+    "category" : "shoes",
+    "price": 2699,
+    "imageURL": "assets/whatsapp-downloads/oncloude.jpg",
+    "description": "On Cloud QC 7A premium quality running shoes 🏃‍♂️ Lightweight, comfortable & durable. Offer ₹2,699/- (MRP ₹2,999/-). COD available 📦"
+  },
+  {
+    "id": 7,
+    "name": "PATEK PHILIPPE Watch",
+    "category" : "watches",
+    "price": 1299,
+    "imageURL": "assets/whatsapp-downloads/PATEK PHILIPPE.jpg",
+    "description": "Patek Philippe men’s 7A premium analog watch ⌚ Round case, date working, stainless steel, OG lock & quartz machinery. Price ₹1,299/- 🌟 Free shipping!"
+  },
+  {
+    "id": 8,
+    "name": "adidas-vslite",
+    "category" : "shoes",
+    "price": 2499,
+    "imageURL": "assets/whatsapp-downloads/adidas-vsl.jpg",
+    "description": "Adidas Adizero vSL 7A premium sneakers 👟 Sleek design, perfect comfort, high quality. Offer ₹2,499/- (MRP ₹2,899/-). COD available 📦"
+  },
+  {
+    "id": 9,
+    "name": "EDIFICE Watch",
+    "category" : "watches",
+    "price": 2799,
+    "imageURL": "assets/whatsapp-downloads/EDIFICE.jpg",
+    "description": "Casio Edifice solar-powered analog-digital watch ⚡ Carbon fiber case, resin band, world time, stopwatch, LED, & 1-year warranty. Price ₹2,699/- Free shipping 🚚"
+  },
+  {
+    "id": 10,
+    "name": "Hulbot Watch",
+    "category" : "watches",
+    "price": 1299,
+    "imageURL": "assets/whatsapp-downloads/hulbot.jpg",
+    "description": "Hublot men’s 7A analog watch with date feature 📅 Metal belt, quartz movement, top-end quality. Price ₹1,299/- 💥 Free prepaid shipping!"
+  },
+  {
+    "id": 11,
+    "name": "APPLE AIRPODS PRO 2ND GENERATION",
+    "category" : "airpods",
+    "price": 1399,
+    "imageURL": "assets/whatsapp-downloads/apple.jpg",
+    "description": "Apple AirPods Pro 2nd Gen 🎧 99.99% OG feel, volume control, GPS, name change, iOS/Android compatible. Premium sound, silicone tips & Type-C cable. Price ₹1,399/- Free shipping 🚚"
+  }
+]
